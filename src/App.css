@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  font-family: sans-serif, Verdana, Arial;
+  overflow-x: hidden;
+}
+
+/* LOGIN CONTENT */
+
+.login {
+  height: 70vh;
+  width: 100%;
+}
+
+.card-width {
+  width: 50%;
+}
+
+/* END OF LOGIN CONTENT */
+
+
+
+
+/* LANDING CONTENT */
+
+.header {
+  height: 10vh;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+}
+
+.navbar {
+  width: 80%;
+  height: 100%;
+}
+
+.main-landing {
+  height: 90vh;
+  width: 100%;
+  background: url("img/showcase2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.section-finder {
+  height: 20vh;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+}
+
+.form-search-events {
+  width: 100%;
+}
+
+.form-input {
+  width: 50%;
+}
+
+.form-select {
+  width: 10%;
+}
+
+.section-content-events {
+  width: 100%;
+  min-height: 70vh;
+}
+
+.events-list {
+  width: 80%;
+}
+
+.section-content-category {
+  width: 100%;
+  min-height: 90vh;
+}
+
+.category-list {
+  min-height: 90vh;
+  width: 80%;
+}
+
+.footer-content {
+  margin-top: 10vh;
+  width: 100%;
+  min-height: 30vh;
+  background-color: rgb(0, 0, 0);
+
+}
+
+.content-wrapper {
+  width: 50%;
+}
+
+a.link {
+  text-decoration: none;
+  color: white;
+}
+
+.about-us,
+.supported-link,
+.social-media {
+  width: 30%;
+  height: 100%;
+}
+
+.i {
+  font-size: 25px;
+  color: white;
+}
+
+.footer {
+  height: 10vh;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+}
+
+
+
+/* END OF MAIN CONTENT */
+
+/* CUSTOM */
+.img {
+  width: 100%;
+}
+
+.text-edit {
+  letter-spacing: 2px;
+}
+
+.vh-90 {
+  height: 90vh;
+  width: 100%;
+}

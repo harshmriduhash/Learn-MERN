@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.formatOnSave": true,
+    "eslint.autoFixOnSave": true,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 100,
+    "emmet.triggerExpansionOnTab": true
+}

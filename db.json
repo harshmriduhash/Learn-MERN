@@ -1,0 +1,39 @@
+{
+  "users": [{
+      "id": "1",
+      "email": "iqbalkorompiz@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "email": "iqbalkoromo@gmail.com",
+      "password": "123456"
+    }, {
+      "id": "3",
+      "email": "iqbalkorosu@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "event": [{
+      "id": "1",
+      "eventName": "Gelar Akbar Maulid Nabi",
+      "createdBy": "Habib Rizieq",
+      "startedIn": "19-02-2020",
+      "location": "Madinnah, Arab"
+    },
+    {
+      "id": "2",
+      "eventName": "Gelar Akbar Maulid Nabi",
+      "createdBy": "Habib Rizieq",
+      "startedIn": "19-02-2020",
+      "location": "Madinnah, Arab"
+    },
+    {
+      "id": "3",
+      "eventName": "Gelar Akbar Maulid Nabi",
+      "createdBy": "Habib Rizieq",
+      "startedIn": "19-02-2020",
+      "location": "Madinnah, Arab"
+    }
+  ]
+}
